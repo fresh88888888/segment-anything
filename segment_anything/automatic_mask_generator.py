@@ -6,7 +6,7 @@
 
 import numpy as np
 import torch
-from torchvision.ops.boxes import batched_nms, box_area  # type: ignore
+from torchvision.ops.boxes import batched_nms, box_area
 
 from typing import Any, Dict, List, Optional, Tuple
 

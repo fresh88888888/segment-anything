@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "segment-anything"
+version = "0.1.0"
+description = "The Segment Anything Model (SAM)"
+authors = ["fresh88888888"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
